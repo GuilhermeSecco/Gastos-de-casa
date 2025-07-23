@@ -1,5 +1,5 @@
 # Gastos-de-casa
-Atualizo os gastos de casa diariamente num excel depois exporto eles para um servidor mysql e por fim os importo no power bi para criar um dashboard interativo
+Atualizo os gastos de casa diariamente num excel, após criar o arquivo .CSV exporto ele para um servidor MySql e adapto os dados para se tornarem compatíveis com o SGBD, após isso eu os importo para a ferramenta Power BI para criar um dashboard interativo
 
 Imagem com os gráficos do Power BI:
 

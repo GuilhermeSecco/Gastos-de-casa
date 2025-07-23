@@ -3,4 +3,5 @@ Atualizo os gastos de casa diariamente num excel depois exporto eles para um ser
 
 Imagem com os gráficos do Power BI:
 
-<img width="983" height="551" alt="image" src="https://github.com/user-attachments/assets/2ec8f518-0099-4592-b22f-35534a60f827" />
+<img width="985" height="553" alt="image" src="https://github.com/user-attachments/assets/58d6cd7a-3d8f-48c4-825f-84c0b86c4840" />
+
